@@ -1,4 +1,4 @@
-### Deliveries 
+### Delivery
 
 * [Investigations](https://trello.com/b/J69ho1qk/investigations)
 * [Discussions](https://trello.com/b/kKOVeCL6/discussions)
