@@ -1,7 +1,7 @@
 ### Deliveries 
 
-* [investigations]https://trello.com/b/J69ho1qk/investigations
-* [discussions]https://trello.com/b/kKOVeCL6/discussions
+* [Investigations](https://trello.com/b/J69ho1qk/investigations)
+* [Discussions](https://trello.com/b/kKOVeCL6/discussions)
 
 ### Brief 
 Added Trello links to Discussions and Investigations.
