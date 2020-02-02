@@ -6,6 +6,6 @@
 * [Templated Design](https://trello.com/b/Mv6ryvQz/templated-design)
 
 ### Brief 
-Completed features board
-Completed and hosted wireframes
+Completed features board, 
+Completed and hosted wireframes, 
 Created a design template
