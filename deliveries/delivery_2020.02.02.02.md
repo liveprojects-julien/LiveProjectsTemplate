@@ -7,6 +7,6 @@
 * [State List Cards](https://trello.com/c/UsK2lgtQ/93-download)
 
 ### Brief 
-Completed user stoires
+Completed user stories
 Updated task board and added gantt chart features
 Added list and cards for application state list, moved to features board
