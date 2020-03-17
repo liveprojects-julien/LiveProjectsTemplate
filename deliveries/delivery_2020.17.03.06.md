@@ -2,7 +2,7 @@
 ### Sprint 11 Delivery
 
 * [GUI](https://github.com/liveprojects-julien/pi_scalextric_spwa_GUI)
-* [Casual Mode]https://github.com/liveprojects-julien/pi_scalextric_spwa_casual_mode)
+* [Casual Mode](https://github.com/liveprojects-julien/pi_scalextric_spwa_casual_mode)
 * [Lap Timer](https://github.com/liveprojects-julien/pi_scalextric_spwa_laptimes)
 * [FINSIHED PRODUCT!](https://github.com/liveprojects-julien/pi_scalextric_t1_spwa)
 
